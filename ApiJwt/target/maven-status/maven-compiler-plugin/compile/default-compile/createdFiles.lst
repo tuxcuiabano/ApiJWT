@@ -1,0 +1,4 @@
+br/edu/ficdev/apijwt/Usuario.class
+br/edu/ficdev/apijwt/JakartaRestConfiguration.class
+br/edu/ficdev/apijwt/resources/LoginResource.class
+br/edu/ficdev/apijwt/resources/JakartaEE8Resource.class
